@@ -1,3 +1,6 @@
 [submodule "2018/ocaml"]
 	path = 2018/ocaml
 	url = https://github.com/p1xelHer0/advent-of-code-2018-ocaml.git
+[submodule "2019/haskell"]
+	path = 2019/haskell
+	url = https://github.com/p1xelHer0/advent-of-code-2019-haskell.git
