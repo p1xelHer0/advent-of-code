@@ -7,3 +7,6 @@
 [submodule "2019/reasonml"]
 	path = 2019/reasonml
 	url = https://github.com/p1xelHer0/advent-of-code-2019-reason-native.git
+[submodule "2020/ocaml"]
+	path = 2020/ocaml
+	url = https://github.com/p1xelHer0/advent-of-code-2020-ocaml/
