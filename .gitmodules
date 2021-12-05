@@ -10,3 +10,6 @@
 [submodule "2020/ocaml"]
 	path = 2020/ocaml
 	url = https://github.com/p1xelHer0/advent-of-code-2020-ocaml/
+[submodule "2021/ocaml"]
+	path = 2021/ocaml
+	url = https://github.com/p1xelHer0/advent-of-code-2021-ocaml.git
