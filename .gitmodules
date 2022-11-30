@@ -13,3 +13,6 @@
 [submodule "2021/ocaml"]
 	path = 2021/ocaml
 	url = https://github.com/p1xelHer0/advent-of-code-2021-ocaml.git
+[submodule "2022/ocaml"]
+	path = 2022/ocaml
+	url = git@github.com:p1xelHer0/advent-of-code-2022-ocaml.git
